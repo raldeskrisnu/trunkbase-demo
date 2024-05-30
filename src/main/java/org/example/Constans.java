@@ -7,4 +7,5 @@ public class Constans {
     public static String BANNER_NAME = "lorem_ipsum.jpg";
     public static String BANNER_TEST = "test.jpg";
     public static String FEATURE_FLAG = "test.jpg";
+    public static String FEATURE_FLAG2 = "test.jpg";
 }
