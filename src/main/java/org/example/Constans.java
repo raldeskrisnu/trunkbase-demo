@@ -8,4 +8,5 @@ public class Constans {
     public static String BANNER_TEST = "test.jpg";
     public static String FEATURE_FLAG = "test.jpg";
     public static String FEATURE_FLAG2 = "test.jpg";
+    public static String FEATURE_FLAG3 = "test.jpg";
 }
